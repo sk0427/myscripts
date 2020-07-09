@@ -12,6 +12,6 @@ To replace repeating tab with tab NA tab
 !! Sort required !!
 To calculate (means|medians|sums|mins|max) of the second column grouped by the first column
 
-### gmediann
+### gmeann
 !! Sort required !!
-To calculate medians of the second column grouped by the first column
+To calculate means of the second column grouped by the first column
