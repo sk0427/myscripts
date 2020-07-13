@@ -1,5 +1,5 @@
 
 ls . | while read line; do
-  ln -sn $line ${HOME}/local/bin
+  ln -sn ${PWD}/$line ${HOME}/local/bin
 done
 
